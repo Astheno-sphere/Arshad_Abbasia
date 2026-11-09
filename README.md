@@ -52,37 +52,46 @@ PhD plate: [P5 — The Robust Front](https://github.com/Astheno-sphere/computati
 
 ## The stack, clubbed into systems
 
-Not a flat badge wall. Each system is a chain that actually runs here. Full map with evidence: [TOOL-MAP.md](TOOL-MAP.md).
+Not a flat badge wall. Each system is a chain that actually runs here. Every icon below was checked to load from `cdn.simpleicons.org` — no icon is shown for a tool that has none there, and no tool is claimed that isn't in [TOOL-MAP.md](TOOL-MAP.md).
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/> <img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" width="40" title="OpenStreetMap"/> <img src="https://cdn.simpleicons.org/qgis/589632" width="40" title="QGIS"/> <img src="https://cdn.simpleicons.org/rhinoceros/000000" width="40" title="Rhino 8"/> <img src="https://cdn.simpleicons.org/blender/E87D0D" width="40" title="Blender"/> <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="40" title="FFmpeg"/> <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub"/> <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" title="Docker"/> <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" title="Node.js"/> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" title="Streamlit"/> <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" title="Jupyter"/> <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" title="Linux"/>
+</p>
 
 ### 1. World / Maps / GIS
-<img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" width="32"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="32"/> <img src="https://cdn.simpleicons.org/qgis/589632" width="32"/>
+<img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" width="32" title="OpenStreetMap"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/qgis/589632" width="32" title="QGIS"/> <img src="https://cdn.simpleicons.org/geopandas/139C5A" width="32" title="GeoPandas"/> <img src="https://cdn.simpleicons.org/pandas/150458" width="32" title="pandas"/> <img src="https://cdn.simpleicons.org/numpy/013243" width="32" title="NumPy"/> <img src="https://cdn.simpleicons.org/jupyter/F37626" width="32" title="Jupyter"/>
 OpenStreetMap + Overpass (POST) · Geofabrik Norway PBF · pyrosm · OSMnx · GeoPandas · Shapely · pyproj · NetworkX · Kartverket stedsnavn / DTM · Sodir FactMaps · EMODnet depth · Kepler.gl · deck.gl
 
 ### 2. Traffic / AIS / Live Norway
-<img src="https://cdn.simpleicons.org/python/3776AB" width="32"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/pandas/150458" width="32" title="pandas"/> <img src="https://cdn.simpleicons.org/jupyter/F37626" width="32" title="Jupyter"/>
 Entur GTFS + Journey Planner + Vehicle Positions · Kystverket Historic AIS · MovingPandas · GTFS Kit · r5py · BarentsWatch AIS
 
 ### 3. Weather / Sea
+<img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/numpy/013243" width="32" title="NumPy"/> <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="32" title="SciPy"/> <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="32" title="Plotly"/> <img src="https://cdn.simpleicons.org/jupyter/F37626" width="32" title="Jupyter"/>
 MET Norway NORA3 + NorKyst v3 · xarray + netCDF4 · Copernicus Marine (scouted)
 
 ### 4. Solve / Optimise
-<img src="https://cdn.simpleicons.org/python/3776AB" width="32"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="32" title="SciPy"/> <img src="https://cdn.simpleicons.org/numpy/013243" width="32" title="NumPy"/> <img src="https://cdn.simpleicons.org/jupyter/F37626" width="32" title="Jupyter"/>
 AMPL + amplpy (HiGHS / CBC) · Pyomo + HiGHS · PyVRP · OR-Tools · Biogeme (DCM) · EMA Workbench + PRIM
 
 ### 5. Simulate
+<img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/numpy/013243" width="32" title="NumPy"/> <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" title="Docker"/>
 SimPy · openclsim · WOMBAT + ORBIT (NREL offshore wind) · Taichi · PhiFlow · PyVista · trimesh
 
 ### 6. Design / CAD / Physics
-<img src="https://cdn.simpleicons.org/rhinoceros/000000" width="32"/> <img src="https://cdn.simpleicons.org/blender/E87D0D" width="32"/>
+<img src="https://cdn.simpleicons.org/rhinoceros/000000" width="32" title="Rhino 8"/> <img src="https://cdn.simpleicons.org/blender/E87D0D" width="32" title="Blender"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/>
 Rhino 8 + rhino3dm-mcp — 244 tools, verified standalone · Grasshopper + Hops · Ladybug / Honeybee / Butterfly → OpenFOAM · Kangaroo · Blender 4.2 headless · CadQuery / build123d
 
 ### 7. Render / Video / Narrative
+<img src="https://cdn.simpleicons.org/ffmpeg/007808" width="32" title="FFmpeg"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" title="Node.js"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" title="JavaScript"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" title="TypeScript"/>
 skia-python · FFmpeg · Remotion · Manim · HyperFrames · GSAP · Matplotlib
 
 ### 8. Agent / Claude / MCP / Code
+<img src="https://cdn.simpleicons.org/anthropic/D97757" width="32" title="Anthropic / Claude"/> <img src="https://cdn.simpleicons.org/github/181717" width="32" title="GitHub"/> <img src="https://cdn.simpleicons.org/git/F05032" width="32" title="Git"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" title="Node.js"/> <img src="https://cdn.simpleicons.org/linux/FCC624" width="32" title="Linux"/> <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" title="Docker"/>
 Claude Code skills (11 in computational_Logistics + 9 in offshore_simulations) · 2 Claude plugins · MCP servers: Asthenosphere, AMPL (5 tools), Rhino (244 tools) · GitHub Actions · `gh` CLI · Python venvs · Node 24
 
 ### 9. Verify / Thesis
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="32" title="Streamlit"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="32" title="Python"/> <img src="https://cdn.simpleicons.org/jupyter/F37626" width="32" title="Jupyter"/> <img src="https://cdn.simpleicons.org/git/F05032" width="32" title="Git"/>
 Z3 · AES-256-GCM · Merkle log · Streamlit · Synthea · pytest
 
 ## Honest counts
